@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As vezes gosto de ***"tentar"*** clonar alguns games 2D.
 
 - ***:massage: Hobbies:*** *Programação*:trollface:, *Musica*:guitar:, *Ler*:book:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também amante de séries animadas japonesas:japanese_ogre:.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também amante de séries japonesas:japanese_ogre:.
 
 
 ## :anchor: Links
