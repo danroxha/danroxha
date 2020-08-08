@@ -1,6 +1,9 @@
 <h1 align="center">Olá, eu sou Daniel Rocha :wave:</h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
 
+  <a href="https://www.linkedin.com/in/DanielRochaS" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://dev.to/dannRocha" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
 - ***:mailbox: Como me encontrar: danielrocha.d.silva@gmail.com***<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Infelizmente não tenho tanta paciência pra acessar as redes sociais.
 
@@ -11,10 +14,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também amante de séries japonesas:japanese_ogre:.
 
 
-## :anchor: Links
-  * ***:pushpin: [Linkedin](https://www.linkedin.com/in/DanielRochaS)***
-  * ***:pushpin: [Dev.to](https://dev.to/dannrocha/)***
-  * ***:pushpin: [Gitlab](https://gitlab.com/dannRocha)***
 ## :bar_chart: Estatísticas
 
 <p align="center">
