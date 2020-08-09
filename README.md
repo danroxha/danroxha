@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/DanielRochaS" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/dannRocha" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
   <a href="https://gitlab.com/dannRocha" target="_blank"><img src="https://img.shields.io/badge/Gitlab-%FCA121.svg?&style=flat-square&logo=gitlab&logoColor=white" alt="Gitlab"/></a>
-  <a href="mailto:danielrocha.d.silva@gmail.com"><img src="http://img.shields.io/badge/Gmail-%230077B6.svg?&style=flat-square&logo=gmail&logoColor=white&color=orange" alt="Gmail"/></a>
+  <a href="mailto:danielrocha.d.silva@gmail.com"><img src="http://img.shields.io/badge/Gmail-%230077B6.svg?&style=flat-square&logo=gmail&logoColor=white&color=red" alt="Gmail"/></a>
 </p>
 
 - ***:mailbox: Como me encontrar: danielrocha.d.silva@gmail.com***<br/>
