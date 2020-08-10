@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Daniel Rocha <img src="assets/img/wave.gif" width=40></h1>
+<h1 align="center">Olá, eu sou Daniel Rocha <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/wave.gif" width=40></h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/DanielRochaS" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/linkedin.svg" alt="LinkedIn"></a>
