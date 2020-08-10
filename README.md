@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Daniel Rocha <img src="assets/img/wave.gif" width=40></h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/DanielRochaS" target="_blank"><img src="assets/img/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/DanielRochaS" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/linkedin.svg" alt="LinkedIn"></a>
   <a href="https://dev.to/dannRocha" target="_blank"><img src="assets/img/dev.svg" alt="DEV.to"></a>
   <a href="https://gitlab.com/dannRocha" target="_blank"><img src="assets/img/gitlab.svg" alt="Gitlab"/></a>
   <a href="mailto:danielrocha.d.silva@gmail.com"><img src="assets/img/gmail.svg" alt="Gmail"/></a>
