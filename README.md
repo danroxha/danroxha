@@ -2,9 +2,9 @@
 <h3 align="center">Graduando em Sistema de Informação</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/DanielRochaS" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/linkedin.svg" alt="LinkedIn"></a>
-  <a href="https://dev.to/dannRocha" target="_blank"><img src="assets/img/dev.svg" alt="DEV.to"></a>
-  <a href="https://gitlab.com/dannRocha" target="_blank"><img src="assets/img/gitlab.svg" alt="Gitlab"/></a>
-  <a href="mailto:danielrocha.d.silva@gmail.com"><img src="assets/img/gmail.svg" alt="Gmail"/></a>
+  <a href="https://dev.to/dannRocha" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/dev.svg" alt="DEV.to"></a>
+  <a href="https://gitlab.com/dannRocha" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gitlab.svg" alt="Gitlab"/></a>
+  <a href="mailto:danielrocha.d.silva@gmail.com"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gmail.svg" alt="Gmail"/></a>
 </p>
 
 - ***:mailbox: Como me encontrar: danielrocha.d.silva@gmail.com***<br/>
@@ -19,23 +19,23 @@
 ## :computer: Linguagens e ferramentas
 
 <p>
-  <img src="assets/img/java.svg" alt="Java" />
-  <img src="assets/img/nodejs.svg" alt="Node.js" />
-  <img src="assets/img/javascript.svg" alt="JavaScript" />
-  <img src="assets/img/sql.svg" alt="SQL" />
-  <img src="assets/img/react.svg" alt="React" />
-  <img src="assets/img/git.svg" alt="Git" />
-  <img src="assets/img/github.svg" alt="Github" />
-  <img src="assets/img/linux.svg" alt="Linux" />
-  <img src="assets/img/vscode.svg" alt="Vs Code"/>
-  <img src="assets/img/html.svg" alt="HTML" />
-  <img src="assets/img/css.svg" alt="CSS" />
-  <img src="assets/img/c.svg" alt="C" />
-  <img src="assets/img/terminal.svg" alt="Terminal" />
-  <img src="assets/img/micro.svg" alt="Micro Editor" />
-  <img src="assets/img/firefox.svg" alt="Firefox" />
-  <img src="assets/img/chrome.svg" alt="Chrome" />
-  <img src="assets/img/shell.svg" alt="Shell" />  
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/java.svg" alt="Java" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/nodejs.svg" alt="Node.js" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/javascript.svg" alt="JavaScript" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/sql.svg" alt="SQL" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/react.svg" alt="React" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/git.svg" alt="Git" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/github.svg" alt="Github" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/linux.svg" alt="Linux" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/vscode.svg" alt="Vs Code"/>
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/html.svg" alt="HTML" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/css.svg" alt="CSS" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/c.svg" alt="C" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/terminal.svg" alt="Terminal" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/micro.svg" alt="Micro Editor" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/firefox.svg" alt="Firefox" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/chrome.svg" alt="Chrome" />
+  <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/shell.svg" alt="Shell" />  
 </p>
 
 ## :bar_chart: Estatísticas
