@@ -1,10 +1,10 @@
-<h1 align="center">Olá, eu sou Daniel Rocha :wave:</h1>
+<h1 align="center">Olá, eu sou Daniel Rocha <img src="assets/img/wave.gif" width=40></h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/DanielRochaS" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://dev.to/dannRocha" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-  <a href="https://gitlab.com/dannRocha" target="_blank"><img src="https://img.shields.io/badge/Gitlab-%FCA121.svg?&style=flat-square&logo=gitlab&logoColor=white" alt="Gitlab"/></a>
-  <a href="mailto:danielrocha.d.silva@gmail.com"><img src="http://img.shields.io/badge/Gmail-%230077B6.svg?&style=flat-square&logo=gmail&logoColor=white&color=red" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/DanielRochaS" target="_blank"><img src="assets/img/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://dev.to/dannRocha" target="_blank"><img src="assets/img/dev.svg" alt="DEV.to"></a>
+  <a href="https://gitlab.com/dannRocha" target="_blank"><img src="assets/img/gitlab.svg" alt="Gitlab"/></a>
+  <a href="mailto:danielrocha.d.silva@gmail.com"><img src="assets/img/gmail.svg" alt="Gmail"/></a>
 </p>
 
 - ***:mailbox: Como me encontrar: danielrocha.d.silva@gmail.com***<br/>
@@ -19,24 +19,23 @@
 ## :computer: Linguagens e ferramentas
 
 <p>
-  <img src="http://img.shields.io/badge/Java-%230077B6.svg?&style=flat-square&logo=java&logoColor=white&color=1d6074&labelColor=e46901" alt="Java" />
-  <img src="http://img.shields.io/badge/Node.js-%230077B6.svg?&style=flat-square&logo=node.js&logoColor=white&color=60975a&labelColor=313131" alt="Node.js" />
-  <img src="http://img.shields.io/badge/JavaScript-%230077B6.svg?&style=flat-square&logo=javascript&logoColor=white&color=000&labelColor=efd81d" alt="JavaScript" />
-  <img src="http://img.shields.io/badge/SQL-%230077B6.svg?&style=flat-square&logo=postgresql&logoColor=white&color=000&labelColor=336791" alt="SQL" />
-  <img src="http://img.shields.io/badge/React-%230077B6.svg?&style=flat-square&logo=react&logoColor=5ed4f4&color=5ed4f4&labelColor=000" alt="React" />
-  <img src="http://img.shields.io/badge/Git-%230077B6.svg?&style=flat-square&logo=git&logoColor=white&color=3f2f00&labelColor=e94e31" alt="Git" />
-  <img src="http://img.shields.io/badge/Github-%230077B6.svg?&style=flat-square&logo=github&logoColor=white&color=23282c&labelColor=23282c" alt="Github" />
-  <img src="http://img.shields.io/badge/Linux-%230077B6.svg?&style=flat-square&logo=linux&logoColor=white&color=f5ab01&labelColor=23282c" alt="Linux" />
-  <img src="http://img.shields.io/badge/VS%20Code-%230077B6.svg?&style=flat-square&logo=visual-studio-code&logoColor=0076c6&color=000&labelColor=000" alt="Vs Code"/>
-  <img src="http://img.shields.io/badge/HTML-%230077B6.svg?&style=flat-square&logo=html5&logoColor=white&color=e54c21&labelColor=f16524" alt="HTML" />
-  <img src="http://img.shields.io/badge/CSS-%230077B6.svg?&style=flat-square&logo=css3&logoColor=white&color=396dc0&labelColor=57a7e4" alt="CSS" />
-  <img src="http://img.shields.io/badge/Language-%230077B6.svg?&style=flat-square&logo=c&logoColor=white&color=396dc0&labelColor=57a7e4" alt="C" />
-  <img src="http://img.shields.io/badge/Terminal-%230077B6.svg?&style=flat-square&logo=powershell&logoColor=white&color=292f35&labelColor=292f35" alt="Terminal" />
-  <img src="https://img.shields.io/badge/%C2%B5-Micro-blue?&style=flat-square&labelColor=2e3192" alt="Micro Editor" />
-  <img src="http://img.shields.io/badge/Firefox-%230077B6.svg?&style=flat-square&logo=firefox-browser&logoColor=white&color=f5ab37&labelColor=f73b42" alt="Firefox" />
-  <img src="http://img.shields.io/badge/Chrome-%230077B6.svg?&style=flat-square&logo=google-chrome&logoColor=#039433&color=c60031&labelColor=0094f7" alt="Chrome" />
-  <img src="http://img.shields.io/badge/Shell-%230077B6.svg?&style=flat-square&logo=shell&logoColor=white&color=4fa22f&labelColor=292f35" alt="Shell" />
-  
+  <img src="assets/img/java.svg" alt="Java" />
+  <img src="assets/img/nodejs.svg" alt="Node.js" />
+  <img src="assets/img/javascript.svg" alt="JavaScript" />
+  <img src="assets/img/sql.svg" alt="SQL" />
+  <img src="assets/img/react.svg" alt="React" />
+  <img src="assets/img/git.svg" alt="Git" />
+  <img src="assets/img/github.svg" alt="Github" />
+  <img src="assets/img/linux.svg" alt="Linux" />
+  <img src="assets/img/vscode.svg" alt="Vs Code"/>
+  <img src="assets/img/html.svg" alt="HTML" />
+  <img src="assets/img/css.svg" alt="CSS" />
+  <img src="assets/img/c.svg" alt="C" />
+  <img src="assets/img/terminal.svg" alt="Terminal" />
+  <img src="assets/img/micro.svg" alt="Micro Editor" />
+  <img src="assets/img/firefox.svg" alt="Firefox" />
+  <img src="assets/img/chrome.svg" alt="Chrome" />
+  <img src="assets/img/shell.svg" alt="Shell" />  
 </p>
 
 ## :bar_chart: Estatísticas
