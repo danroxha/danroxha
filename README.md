@@ -46,6 +46,26 @@
 </p>
 
 <!--
+
+## Shields
+Java:       http://img.shields.io/badge/Java-%230077B6.svg?&style=flat-square&logo=java&logoColor=white&color=1d6074&labelColor=e46901
+Node:       http://img.shields.io/badge/Node.js-%230077B6.svg?&style=flat-square&logo=node.js&logoColor=white&color=60975a&labelColor=313131
+JavaScript: http://img.shields.io/badge/JavaScript-%230077B6.svg?&style=flat-square&logo=javascript&logoColor=white&color=000&labelColor=efd81d
+SQL:        http://img.shields.io/badge/SQL-%230077B6.svg?&style=flat-square&logo=postgresql&logoColor=white&color=000&labelColor=336791
+React:      http://img.shields.io/badge/React-%230077B6.svg?&style=flat-square&logo=react&logoColor=5ed4f4&color=5ed4f4&labelColor=000
+Git:        http://img.shields.io/badge/Git-%230077B6.svg?&style=flat-square&logo=git&logoColor=white&color=3f2f00&labelColor=e94e31
+Github:	    http://img.shields.io/badge/Github-%230077B6.svg?&style=flat-square&logo=github&logoColor=white&color=23282c&labelColor=23282c
+Linux:      http://img.shields.io/badge/Linux-%230077B6.svg?&style=flat-square&logo=linux&logoColor=white&color=f5ab01&labelColor=23282c
+VsCode:     http://img.shields.io/badge/VS%20Code-%230077B6.svg?&style=flat-square&logo=visual-studio-code&logoColor=0076c6&color=000&labelColor=000
+npm:       http://img.shields.io/badge/NPM-%230077B6.svg?&style=flat-square&logo=npm&logoColor=white&color=c12127&labelColor=000
+HTML5:     http://img.shields.io/badge/HTML-%230077B6.svg?&style=flat-square&logo=html5&logoColor=white&color=e54c21&labelColor=f16524
+CSS3:      http://img.shields.io/badge/CSS-%230077B6.svg?&style=flat-square&logo=css3&logoColor=white&color=396dc0&labelColor=57a7e4
+C:         http://img.shields.io/badge/Programming%20language-%230077B6.svg?&style=flat-square&logo=c&logoColor=white&color=396dc0&labelColor=57a7e4
+Shell:     http://img.shields.io/badge/Shell-%230077B6.svg?&style=flat-square&logo=shell&logoColor=white&color=4fa22f&labelColor=292f35
+Firefox:   http://img.shields.io/badge/Firefox-%230077B6.svg?&style=flat-square&logo=firefox-browser&logoColor=white&color=f5ab37&labelColor=f73b42
+Chrome:    http://img.shields.io/badge/Chrome-%230077B6.svg?&style=flat-square&logo=google-chrome&logoColor=#039433&color=c60031&labelColor=0094f7
+
+
 **dannRocha/dannRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
