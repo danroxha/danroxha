@@ -16,6 +16,8 @@
 - ***:massage: Hobbies:*** *Programação*:trollface:, *Música*:guitar:, *Ler*:book:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também amante de séries japonesas:japanese_ogre:.
 
+<!--
+
 ## :computer: Linguagens e ferramentas
 
 <p>
@@ -38,6 +40,7 @@
   <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/shell.svg" alt="Shell" />  
 </p>
 
+
 ## :bar_chart: Estatísticas
 
 <p align="center">
@@ -45,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannRocha&layout=compact" />
 </p>
 
-<!--
+
 
 ## Shields
 Java:       http://img.shields.io/badge/Java-%230077B6.svg?&style=flat-square&logo=java&logoColor=white&color=1d6074&labelColor=e46901
