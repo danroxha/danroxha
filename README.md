@@ -16,7 +16,7 @@
 - ***:massage: Hobbies:*** *Programação*:trollface:, *Música*:guitar:, *Ler*:book:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também amante de séries japonesas:japanese_ogre:.
 
-<!--
+
 
 ## :computer: Linguagens e ferramentas
 
@@ -40,6 +40,7 @@
   <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/shell.svg" alt="Shell" />  
 </p>
 
+<!--
 
 ## :bar_chart: Estatísticas
 
