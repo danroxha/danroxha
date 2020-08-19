@@ -42,6 +42,11 @@
 
 <!--
 
+Exemplo
+[![Watch the video](https://img.youtube.com/vi/HzJU_mVvpwU/maxresdefault.jpg)](https://www.youtube.com/watch?v=HzJU_mVvpwU)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](VIDEO_URL)
+
+
 ## :bar_chart: Estatísticas
 
 <p align="center">
