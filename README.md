@@ -5,6 +5,7 @@
   <a href="https://dev.to/dannRocha" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/dev.svg" alt="DEV.to"></a>
   <a href="https://gitlab.com/dannRocha" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gitlab.svg" alt="Gitlab"/></a>
   <a href="mailto:danielrocha.d.silva@gmail.com"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gmail.svg" alt="Gmail"/></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=dannRocha&style=flat-square&label=Views&color=blueviolet"/></a>
 </p>
 
 - ***:mailbox: Como me encontrar: danielrocha.d.silva@gmail.com***<br/>
