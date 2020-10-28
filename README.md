@@ -4,11 +4,11 @@
   <a href="https://www.linkedin.com/in/dann-rocha/" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/linkedin.svg" alt="LinkedIn"></a>
   <a href="https://dev.to/dannRocha" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/dev.svg" alt="DEV.to"></a>
   <a href="https://gitlab.com/dannRocha" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gitlab.svg" alt="Gitlab"/></a>
-  <a href="mailto:danielrocha.d.silva@gmail.com"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gmail.svg" alt="Gmail"/></a>
+  <a href="mailto:rochadaniel@acad.ifma.edu.br"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gmail.svg" alt="Gmail"/></a>
   <!-- <a href="#"><img src="https://komarev.com/ghpvc/?username=dannRocha&style=flat-square&label=Views&color=blueviolet"/></a> -->
 </p>
 
-- ***:mailbox: Como me encontrar: danielrocha.d.silva@gmail.com***<br/>
+- ***:mailbox: Como me encontrar: rochadaniel@acad.ifma.edu.br***<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Infelizmente não tenho tanta paciência pra acessar as redes sociais.
 
 - ***:seedling: O que estou aprendendo:*** *Java*:coffee:, *SQL*:file_folder:, *Web*:earth_americas: e Inglês:tongue:<br/>
