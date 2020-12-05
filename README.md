@@ -11,8 +11,13 @@
 - ***:mailbox: Como me encontrar: rochadaniel@acad.ifma.edu.br***<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Infelizmente não tenho tanta paciência pra acessar as redes sociais.
 
+- ***:seedling: O que estou aprendendo:*** *Web*:earth_americas: e Inglês:tongue:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As vezes gosto de ***"tentar"*** clonar alguns games 2D.
+
+<!--
 - ***:seedling: O que estou aprendendo:*** *Java*:coffee:, *SQL*:file_folder:, *Web*:earth_americas: e Inglês:tongue:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As vezes gosto de ***"tentar"*** clonar alguns games 2D.
+-->
 
 - ***:massage: Hobbies:*** *Programação*:trollface:, *Música*:guitar:, *Ler*:book:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também amante de séries japonesas:japanese_ogre:.
