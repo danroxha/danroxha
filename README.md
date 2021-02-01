@@ -22,8 +22,8 @@
 - ***:massage: Hobbies:*** *Programação*:trollface:, *Música*:guitar:, *Ler*:book:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também amante de séries japonesas:japanese_ogre:.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dannrocha&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannrocha&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dannrocha&theme=light&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannrocha&theme=light&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
