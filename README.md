@@ -8,7 +8,7 @@
   <!-- <a href="#"><img src="https://komarev.com/ghpvc/?username=dannRocha&style=flat-square&label=Views&color=blueviolet"/></a> -->
 </p>
 
-- ***:mailbox: Como me encontrar: rochadaniel@acad.ifma.edu.br***<br/>
+- ***:mailbox: Chama aí: rochadaniel@acad.ifma.edu.br***<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Infelizmente não tenho tanta paciência pra acessar as redes sociais.
 
 - ***:seedling: O que estou aprendendo:*** *Web*:earth_americas: e Inglês:tongue:<br/>
