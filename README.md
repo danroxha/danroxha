@@ -9,9 +9,9 @@
 </p>
 
 - ***:mailbox: Chama aí: rochadaniel@acad.ifma.edu.br***<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Infelizmente não tenho tanta paciência pra acessar as redes sociais.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :email: : "***What's up***".
 
-- ***:seedling: O que estou aprendendo:*** *Web*:earth_americas: e Inglês:tongue:<br/>
+- ***:seedling: O que estou aprendendo:*** *Web*:earth_americas: e Inglês:tongue: e qualquer coisa que achar interessante :astonished: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As vezes gosto de ***"tentar"*** clonar alguns games 2D.
 
 <!--
@@ -20,7 +20,7 @@
 -->
 
 - ***:massage: Hobbies:*** *Programação*:trollface:, *Música*:guitar:, *Ler*:book:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também amante de séries japonesas:japanese_ogre:.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também gosto de séries do hemisfério oriental:japanese_ogre:.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dannrocha&theme=light&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannrocha&theme=light&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
