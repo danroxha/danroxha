@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As vezes gosto de ***"tentar"*** clonar alguns games 2D.
 -->
 
-- ***:massage: Hobbies:*** *Programação*:trollface:, *Música*:guitar:, *Ler*:book:<br/>
+- ***:massage: Hobbies:*** *Música*:guitar:, *Ler*:book:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também gosto de séries do hemisfério oriental:japanese_ogre:.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dannrocha&theme=light&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
