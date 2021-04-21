@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dann-rocha/" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/linkedin.svg" alt="LinkedIn"></a>
   <a href="https://dev.to/dannRocha" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/dev.svg" alt="DEV.to"></a>
+  <a href="https://replit.com/@dannRocha/" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/replit.svg" alt="Replit"></a>
   <a href="https://gitlab.com/dannRocha" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gitlab.svg" alt="Gitlab"/></a>
   <a href="mailto:rochadaniel@acad.ifma.edu.br"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gmail.svg" alt="Gmail"/></a>
   <!-- <a href="#"><img src="https://komarev.com/ghpvc/?username=dannRocha&style=flat-square&label=Views&color=blueviolet"/></a> -->
