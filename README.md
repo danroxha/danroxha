@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Daniel Rocha <img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/wave.gif" width=40></h1>
+<h1 align="center">Olá, eu sou Daniel Rocha <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=40></h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/dann-rocha/" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/linkedin.svg" alt="LinkedIn"></a>
@@ -12,10 +12,11 @@
 - ***:mailbox: Chama aí: rochadaniel@acad.ifma.edu.br***<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :email: : "***What's up***".
 
-- ***:seedling: O que estou aprendendo:*** *Web*:earth_americas: e Inglês:tongue: e qualquer coisa que achar interessante :astonished: <br/>
+- ***:seedling: O que estou aprendendo:*** *Web*:earth_americas:, Inglês:tongue: e qualquer coisa que achar interessante :astonished: <br/>
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As vezes gosto de ***"tentar"*** clonar alguns games 2D.
 
-<!--
+
 - ***:seedling: O que estou aprendendo:*** *Java*:coffee:, *SQL*:file_folder:, *Web*:earth_americas: e Inglês:tongue:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As vezes gosto de ***"tentar"*** clonar alguns games 2D.
 
