@@ -24,10 +24,10 @@
 - ***:massage: Hobbies:*** *Música*:guitar:, *Ler*:book:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E também gosto de séries do hemisfério oriental:japanese_ogre:.
 -->
-<p align="center">
+<div>
 <img alt="DannRocha's github stats" src="https://github-readme-stats.vercel.app/api?username=dannrocha&theme=light&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20" height="160em" />
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannrocha&theme=light&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats" height="160em" />
-</p>
+</div>
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dannrocha&theme=light&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannrocha&theme=light&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats) -->
 
