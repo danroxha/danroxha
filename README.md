@@ -1,3 +1,7 @@
+# Hi! what's up! 😁
+
+
+<!--
 <h1 align="center">Olá, eu sou Daniel Rocha <img src="https://raw.githubusercontent.com/dannRocha/dannRocha/master/assets/img/hi.gif" width=40></h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
 
@@ -9,13 +13,16 @@
   <a href="https://replit.com/@dannRocha/" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/replit.svg" alt="Replit"></a>
   <a href="https://gitlab.com/dannRocha" target="_blank"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gitlab.svg" alt="Gitlab"/></a>
   <a href="mailto:rochadaniel@acad.ifma.edu.br"><img src="https://github.com/dannRocha/dannRocha/blob/master/assets/img/gmail.svg" alt="Gmail"/></a>
-  <!-- <a href="#"><img src="https://komarev.com/ghpvc/?username=dannRocha&style=flat-square&label=Views&color=blueviolet"/></a> -->
+
+  -->
+  <!-- <a href="#"><img src="https://komarev.com/ghpvc/?username=dannRocha&style=flat-square&label=Views&color=blueviolet"/></a>
 </p>
 
 - ***:mailbox: Chama aí: rochadaniel@acad.ifma.edu.br***<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :email: : "***What's up***".
 
 - ***:seedling: O que estou aprendendo:*** *Android*:iphone:, Inglês:tongue: e qualquer coisa que achar interessante :astonished: <br/>
+-->
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As vezes gosto de ***"tentar"*** clonar alguns games 2D.
 
@@ -34,7 +41,6 @@
 
  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannrocha&theme=light&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats" height="160em" />
 </div>
-
 -->
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dannrocha&theme=light&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannrocha&theme=light&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats) -->
