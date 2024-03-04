@@ -1,6 +1,6 @@
 # Hi! what's up! 😁
 
-2nd account: [(Chopper)ttony2chopper](https://github.com/ttony2chopper)
+- Some Kotlin code: 2nd account: [(Chopper)ttony2chopper](https://github.com/ttony2chopper) s
 <!--
 <h1 align="center">Olá, eu sou Daniel Rocha <img src="https://raw.githubusercontent.com/dannRocha/dannRocha/master/assets/img/hi.gif" width=40></h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
