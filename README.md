@@ -1,6 +1,31 @@
 # Hi! what's up! 😁
 
-Some Kotlin code in ***2nd account***: [(Chopper)ttony2chopper](https://github.com/ttony2chopper)
+<table >
+  <tr>
+    <td>
+      <a href="https://github.com/ttony2chopper" target="_blank">
+        <img width="100px" src="https://avatars.githubusercontent.com/u/156493704?v=4" alt="Cover profile">
+      </a>
+      </figure>
+    </td>
+    <td>
+      <ul>
+        <li>
+          <a href="https://github.com/ttony2chopper">Chopper</a>
+        </li>
+        <li>
+           <a href="https://github.com/ttony2chopper" target="_blank">
+              Here I am contributing to some projects that I find interesting!
+           </a>
+        </li>
+        <li>
+          Kotlin projects and any other
+        </li>
+      </ul>
+    </td>
+  </tr>  
+</table>
+
 <!--
 <h1 align="center">Olá, eu sou Daniel Rocha <img src="https://raw.githubusercontent.com/dannRocha/dannRocha/master/assets/img/hi.gif" width=40></h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
