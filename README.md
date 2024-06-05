@@ -3,7 +3,7 @@
 <table >
   <tr>
     <td>
-      <a href="https://github.com/ttony2chopper" target="_blank">
+      <a href="https://github.com/choppeh" target="_blank">
         <img width="100px" src="https://avatars.githubusercontent.com/u/156493704?v=4" alt="Cover profile">
       </a>
       </figure>
@@ -11,10 +11,10 @@
     <td>
       <ul>
         <li>
-          <a href="https://github.com/ttony2chopper">Chopper</a>
+          <a href="https://github.com/choppeh">Chopper</a>
         </li>
         <li>
-           <a href="https://github.com/ttony2chopper" target="_blank">
+           <a href="https://github.com/choppeh" target="_blank">
               Here I am contributing to some projects that I find interesting!
            </a>
         </li>
