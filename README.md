@@ -1,5 +1,4 @@
 # Hi! what's up! 😁
-<!--
 <table >
   <tr>
     <td>
@@ -11,7 +10,7 @@
     <td>
       <ul>
         <li>
-          <a href="https://github.com/choppeh">Chopper</a>
+          <a href="https://github.com/choppeh">I'm Chopper</a>
         </li>
         <li>
            <a href="https://github.com/choppeh" target="_blank">
@@ -25,7 +24,6 @@
     </td>
   </tr>  
 </table>
--->
 
 <!--
 <h1 align="center">Olá, eu sou Daniel Rocha <img src="https://raw.githubusercontent.com/dannRocha/dannRocha/master/assets/img/hi.gif" width=40></h1>
