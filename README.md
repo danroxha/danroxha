@@ -1,4 +1,6 @@
 # Hi! what's up! 😁
+
+<!--
 ## Conta secundária, faço algumas contribuições Open-Source com ela.
 <table >
   <tr>
@@ -26,7 +28,6 @@
   </tr>  
 </table>
 
-<!--
 <h1 align="center">Olá, eu sou Daniel Rocha <img src="https://raw.githubusercontent.com/dannRocha/dannRocha/master/assets/img/hi.gif" width=40></h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
 
