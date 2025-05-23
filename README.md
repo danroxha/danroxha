@@ -1,7 +1,7 @@
 # Hi! what's up! 😁
 
-<!--
-## Conta secundária, faço algumas contribuições Open-Source com ela.
+
+## 2nd account
 <table >
   <tr>
     <td>
@@ -13,21 +13,16 @@
     <td>
       <ul>
         <li>
-          <a href="https://github.com/choppeh">I'm Chopper</a>
+          <a href="https://github.com/choppeh">Hi, Chopper here!</a>
         </li>
         <li>
-           <a href="https://github.com/choppeh" target="_blank">
-              Here I am contributing to some projects that I find interesting!
-           </a>
-        </li>
-        <li>
-          Kotlin projects and any other
+          See some of the contributions in this profile
         </li>
       </ul>
     </td>
   </tr>  
 </table>
-
+<!--
 <h1 align="center">Olá, eu sou Daniel Rocha <img src="https://raw.githubusercontent.com/dannRocha/dannRocha/master/assets/img/hi.gif" width=40></h1>
 <h3 align="center">Graduando em Sistema de Informação</h3>
 
